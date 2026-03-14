@@ -2,9 +2,9 @@
 
 A simple, multi-page website showcasing various recipes.
 
-## Live Demo:
+## 🚀 Live Demo:
 
-Link to live demo. (To be added soon)
+[Link to live demo.](https://thepaladindev.github.io/odin-recipes/)
 
 ## Tech Stack:
 
