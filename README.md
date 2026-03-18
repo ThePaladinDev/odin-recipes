@@ -6,9 +6,16 @@ A simple, multi-page website showcasing various recipes.
 
 [Link to live demo.](https://thepaladindev.github.io/odin-recipes/)
 
+## 📸 Preview
+
+|                                 Home Page                                 |                                  Recipe Page                                  |
+| :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| <img src="./screenshots/home.png" width="400" alt="Home Page Screenshot"> | <img src="./screenshots/recipe.png" width="400" alt="Recipe Page Screenshot"> |
+
 ## Tech Stack:
 
-- HTML5 (Pure HTML, no CSS/JS yet)
+- HTML
+- CSS
 - git
 
 ## Getting Started
@@ -59,3 +66,7 @@ To view this project locally:
 - Structuring a basic HTML document.
 - Working with lists, links, and images.
 - Using hyperlinks to implement navigation for my website and embedding images.
+- Making a layout, and styling using CSS.
+- Ran into and resolved the Cumulative Layout Shift (CLS) issue.
+- CSS resets, variables, color palettes.
+- Making a consistent UI across all pages.
